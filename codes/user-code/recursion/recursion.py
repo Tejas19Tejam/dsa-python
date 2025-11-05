@@ -103,10 +103,10 @@
 
 # Problem : Find the nth place Fibonaci number using recursion (TC -> 2 ^ N)
 def nth_fibonaci_number(n):
-  if n <= 1:
-    return n
-  else:
-    return nth_fibonaci_number(n - 1) + nth_fibonaci_number(n - 2)
+    if n <= 1:
+        return n
+    else:
+        return nth_fibonaci_number(n - 1) + nth_fibonaci_number(n - 2)
 
 
 print(nth_fibonaci_number(4))
