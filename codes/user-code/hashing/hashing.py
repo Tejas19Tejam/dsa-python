@@ -1,37 +1,19 @@
+
 # Hashing
+ar = [1,2,3,2,7, 4, 2, 6, 7, 4, 3,10, 11, 2, 5, 6]
+    
+def main(ar, k):
+    hashTable = [0] * 13
+    
+    for key in range(0, len(ar)):
+        hashTable[ar[key]] = hashTable[ar[key]]+1
+    
+    print(f'The number {k} appears in array for {hashTable[k]} times')
+    
 
-ar = [1, 2, 3, 4, 45, 56, 3, 4, 45, 56]
-
-
-def find_count(arr):
-    hash = {}
-
-    for index in range(len(arr)):
-        if not hash.get(ar[index]):
-            hash[ar[index]] = 1
-        else:
-            hash[ar[index]] = hash[ar[index]] + 1
-
-    print(hash)
-
-
-# Find the count of character using hashing
-
-char_arr = ["a", "b", "c", "a", "b", "c", "d"]
+if __name__ == "__main__":
+    main(ar, 3)
+    main(ar, 4)
+    main(ar, 2)
 
 
-def find_char_occ(char_arr):
-    hash = {}
-    for char in char_arr:
-        # current_index = ord(char) - ord("a")
-        if not hash.get(char):
-            hash[char] = 1
-        else:
-            hash[char] = hash[char] + 1
-
-    print(hash)
-
-
-find_char_occ(char_arr)
-
-# find_count(ar)
