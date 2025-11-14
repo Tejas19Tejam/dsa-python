@@ -1,0 +1,45 @@
+MERN Stack Blogs & Resources (Names & Links)
+
+MongoDB:
+MongoDB Blog: https://www.mongodb.com/blog
+MongoDB Developer Center: https://www.mongodb.com/developer
+MongoDB University: https://learn.mongodb.com
+
+Express.js:
+Express.js Guide: https://expressjs.com/en/guide/routing.html
+MDN Express Tutorials: https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs
+RisingStack Express Articles: https://blog.risingstack.com
+
+Node.js:
+Node.js Official Blog: https://nodejs.org/en/blog
+NodeSource Blog: https://nodesource.com/blog
+DigitalOcean Node Tutorials: https://www.digitalocean.com/community/tags/nodejs
+FreeCodeCamp Node Articles: https://www.freecodecamp.org/news/tag/node-js/
+
+React.js:
+React Official Blog: https://react.dev/blog
+Kent C. Dodds Blog: https://kentcdodds.com/blog
+UI.Dev React Blog: https://ui.dev/blog
+CSS-Tricks React Guides: https://css-tricks.com/tag/react/
+FreeCodeCamp React Articles: https://www.freecodecamp.org/news/tag/react/
+
+Interview Preparation:
+InterviewBit MERN: https://www.interviewbit.com/mongodb-interview-questions/
+GeeksforGeeks MERN: https://www.geeksforgeeks.org/tag/mern-stack/
+Frontend Interview Handbook: https://www.frontendinterviewhandbook.com
+FullStack.Cafe Interview Questions: https://www.fullstack.cafe
+
+System Design:
+ByteByteGo Blog: https://blog.bytebytego.com
+High Scalability: http://highscalability.com
+LogRocket Node Patterns: https://blog.logrocket.com
+
+Hands-on Learning (YouTube):
+RoadsideCoder: https://www.youtube.com/c/RoadsideCoder
+Hitesh Choudhary: https://www.youtube.com/c/HiteshChoudharydotcom
+CodeWithHarry: https://www.youtube.com/c/CodeWithHarry
+Traversy Media: https://www.youtube.com/c/TraversyMedia
+
+Cheat Sheets:
+DevDocs: https://devdocs.io
+OverAPI: https://overapi.com
