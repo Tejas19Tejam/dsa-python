@@ -1,0 +1,48 @@
+Best Blogs for Software Engineers (Names & Links)
+
+DSA:
+GeeksforGeeks: https://www.geeksforgeeks.org
+LeetCode Discuss: https://leetcode.com/discuss
+AlgoExpert Blog: https://www.algoexpert.io/questions
+TopCoder Tutorials: https://www.topcoder.com/thrive
+HackerEarth Blog: https://www.hackerearth.com/blog
+
+Networking:
+Cisco Blogs: https://blogs.cisco.com
+Cloudflare Blog: https://blog.cloudflare.com
+AWS Networking Blog: https://aws.amazon.com/blogs/networking-and-content-delivery
+Juniper Networks Blog: https://blogs.juniper.net
+NetworkLessons: https://networklessons.com
+
+Backend Engineering:
+Netflix Tech Blog: https://netflixtechblog.com
+Uber Engineering: https://eng.uber.com
+Meta Engineering: https://engineering.fb.com
+Airbnb Engineering: https://medium.com/airbnb-engineering 
+Stripe Engineering: https://stripe.com/blog/engineering
+Heroku Blog: https://blog.heroku.com
+
+General Software Development:
+Better Programming (Medium): https://betterprogramming.pub
+freeCodeCamp: https://www.freecodecamp.org/news
+Dev.to: https://dev.to
+Hashnode: https://hashnode.com
+Martin Fowler: https://martinfowler.com
+Google Developers Blog: https://developers.googleblog.com
+
+System Design & Architecture:
+High Scalability: http://highscalability.com
+ByteByteGo: https://blog.bytebytego.com
+InfoQ: https://www.infoq.com
+Reddit r/systemdesign: https://www.reddit.com/r/systemdesign
+
+DevOps & Cloud:
+AWS Blog: https://aws.amazon.com/blogs
+Google Cloud Blog: https://cloud.google.com/blog
+Azure Blog: https://azure.microsoft.com/en-in/blog
+Kubernetes Blog: https://kubernetes.io/blog
+
+Programming & CS Concepts:
+StackOverflow Blog: https://stackoverflow.blog
+CS Dojo: https://csdojo.io
+Ben Eater: https://eater.net
